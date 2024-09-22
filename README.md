@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics and try to force myself to read
 - 🌱 I’m currently learning C++/Python
 - 💞️ I’m looking to collaborate on... nothing specific yet
-- 📫 How to reach me: via email(namik.agic2@gmail.com), @AgicNamik on X
+- 📫 How to reach me: via email (namik.agic2@gmail.com), @AgicNamik on X
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really enjoy inline skating and cliff jumping
 
